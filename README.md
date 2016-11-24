@@ -2,4 +2,4 @@
 
 - servicenowRefreshAndNotify.js
 
-Refreshed iframe in servicenow filtered table and checks for 'new' case. Notifies with sound.
+Refresh page and check servicenow filtered table for 'new' case. Notifies with sound.
